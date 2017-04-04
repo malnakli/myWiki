@@ -3,7 +3,7 @@
 
 ***
 # Remote VSCode   
-https://github.com/rafaelmaiolla/remote-vscode
+https://github.com/rafaelmaiolla/remote-vscode       
 1- Install remote vscode extension    
 2- add the following to `~/.ssh/config`
 ```
